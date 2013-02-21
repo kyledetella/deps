@@ -20,7 +20,7 @@ function($, _, Backbone, Handlebars, app) {
     },
 
     render: function() {
-      app.$injectionPoint.html(this.template({message: 'production!'}))
+      app.$injectionPoint.html(this.template({message: '_staging!'}))
     }
 
   });
