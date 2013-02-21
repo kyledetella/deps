@@ -1,7 +1,7 @@
 {
   "name": "staging-kdd",
   "description": "Basic node.js boilerplate",
-  "version": "0.0.1-4",
+  "version": "0.0.1-5",
   "private": true,
   "subdomain": "staging.kdd-test",
   "dependencies": {
